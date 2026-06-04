@@ -13,6 +13,6 @@ A Streamlit dashboard for visualising University of Oxford funding awards and fu
 ├── .streamlit/
 │   └── config.toml
 └── data/
-    ├── projectsearch.csv              # optional
-    └── success_rate_data.csv          # optional
+    ├── projectsearch.csv              
+    └── success_rate_data.csv          
 ```
