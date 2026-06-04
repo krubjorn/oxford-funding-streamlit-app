@@ -16,3 +16,5 @@ A Streamlit dashboard for visualising University of Oxford funding awards and fu
     ├── projectsearch.csv              
     └── success_rate_data.csv          
 ```
+Launch App
+Go to `https://share.streamlit.io`
